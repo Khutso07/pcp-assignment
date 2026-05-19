@@ -1,0 +1,25 @@
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\bin\Debug\LEBYANE K PCP PAT 2.exe.config
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\bin\Debug\LEBYANE K PCP PAT 2.exe
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\bin\Debug\LEBYANE K PCP PAT 2.pdb
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\bin\Debug\LEBYANE K PCP PAT 2.xml
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.vbproj.AssemblyReference.cache
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE_K_PCP_PAT_2.Form1.resources
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE_K_PCP_PAT_2.Resources.resources
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.vbproj.GenerateResource.cache
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.vbproj.CoreCompileInputs.cache
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.exe
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.xml
+C:\Users\sekho\source\repos\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.pdb
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\bin\Debug\LEBYANE K PCP PAT 2.exe.config
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\bin\Debug\LEBYANE K PCP PAT 2.exe
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\bin\Debug\LEBYANE K PCP PAT 2.pdb
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\bin\Debug\LEBYANE K PCP PAT 2.xml
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.vbproj.AssemblyReference.cache
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE_K_PCP_PAT_2.Form1.resources
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE_K_PCP_PAT_2.Resources.resources
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.vbproj.GenerateResource.cache
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.vbproj.CoreCompileInputs.cache
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.exe
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.xml
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.pdb
+D:\LEBYANE K PCP PAT 2\LEBYANE K PCP PAT 2\obj\Debug\LEBYANE K PCP PAT 2.exe.config
