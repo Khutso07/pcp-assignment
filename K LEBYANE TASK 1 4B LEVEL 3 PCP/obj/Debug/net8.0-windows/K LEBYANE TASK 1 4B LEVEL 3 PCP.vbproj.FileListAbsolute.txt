@@ -1,0 +1,34 @@
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.exe
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.deps.json
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.runtimeconfig.json
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.dll
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.pdb
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K_LEBYANE_TASK_1_4B_LEVEL_3_PCP.Form1.resources
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K_LEBYANE_TASK_1_4B_LEVEL_3_PCP.Resources.resources
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.vbproj.GenerateResource.cache
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.AssemblyInfoInputs.cache
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.AssemblyInfo.vb
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.vbproj.CoreCompileInputs.cache
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.dll
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\refint\K LEBYANE TASK 1 4B LEVEL 3 PCP.dll
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.pdb
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.genruntimeconfig.cache
+C:\Users\sekho\source\repos\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\ref\K LEBYANE TASK 1 4B LEVEL 3 PCP.dll
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.exe
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.deps.json
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.runtimeconfig.json
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.dll
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\bin\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.pdb
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K_LEBYANE_TASK_1_4B_LEVEL_3_PCP.Form1.resources
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K_LEBYANE_TASK_1_4B_LEVEL_3_PCP.Resources.resources
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.vbproj.GenerateResource.cache
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.AssemblyInfoInputs.cache
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.AssemblyInfo.vb
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.vbproj.CoreCompileInputs.cache
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.dll
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\refint\K LEBYANE TASK 1 4B LEVEL 3 PCP.dll
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.pdb
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\K LEBYANE TASK 1 4B LEVEL 3 PCP.genruntimeconfig.cache
+D:\K LEBYANE TASK 1 4B LEVEL 3 PCP\obj\Debug\net8.0-windows\ref\K LEBYANE TASK 1 4B LEVEL 3 PCP.dll
